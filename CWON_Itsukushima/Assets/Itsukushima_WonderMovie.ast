@@ -431,66 +431,6 @@
 				<m_GroupStates/>
 			</Element>
 			<Element>
-				<m_Name text="TerrainElement_SingleHex_Decal"/>
-				<m_GeoName text="TerrainElement_SingleHex_Decal"/>
-				<m_GroupStates>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="Bamyan_Tile_Decal"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="HM [TerrainElement_SingleHex_Decal]"/>
-						<m_MeshName text="TerrainElement_SingleHex_Decal"/>
-						<m_StateName text="Worked"/>
-					</Element>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="Bamyan_Tile_Decal"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="HM [TerrainElement_SingleHex_Decal]"/>
-						<m_MeshName text="TerrainElement_SingleHex_Decal"/>
-						<m_StateName text="Unworked"/>
-					</Element>
-					<Element>
-						<m_Values>
-							<m_Values>
-								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="Bamyan_Tile_Decal"/>
-									<m_eObjectType>MATERIAL</m_eObjectType>
-									<m_ParamName text="Material"/>
-								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
-							</m_Values>
-						</m_Values>
-						<m_GroupName text="HM [TerrainElement_SingleHex_Decal]"/>
-						<m_MeshName text="TerrainElement_SingleHex_Decal"/>
-						<m_StateName text="Ruined"/>
-					</Element>
-				</m_GroupStates>
-			</Element>
-			<Element>
 				<m_Name text="WON_Dummy"/>
 				<m_GeoName text="WON_Dummy"/>
 				<m_GroupStates>
@@ -677,7 +617,7 @@
 	<m_Materials/>
 	<m_ClassName text="WonderMovie"/>
 	<m_DataFiles/>
-	<m_Name text="Bamyan_WonderMovie"/>
+	<m_Name text="Itsukushima_WonderMovie"/>
 	<m_Description text=""/>
 	<m_Tags>
 		<Element text="WonderMovie"/>
