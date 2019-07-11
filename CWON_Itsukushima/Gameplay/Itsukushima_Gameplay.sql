@@ -19,7 +19,7 @@ INSERT INTO Modifiers (ModifierId, ModifierType) VALUES ('ITSUKUSHIMA_THEATER_CO
 INSERT INTO Modifiers (ModifierId, ModifierType) VALUES ('ITSUKUSHIMA_HOLY_SITE_COAST_FAITH', 'MODIFIER_PLAYER_CITIES_TERRAIN_ADJACENCY');
 
 --ModifierArguments
-INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES ('ITSUKUSHIMA_ADDAPPEAL', 'Amount', 2);
+INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES ('ITSUKUSHIMA_ADDAPPEAL', 'Amount', 1);
 
 INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES ('ITSUKUSHIMA_GRANT_MONUMENT', 'BuildingType', 'BUILDING_MONUMENT');
 
