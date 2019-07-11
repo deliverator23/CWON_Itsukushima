@@ -7,7 +7,7 @@
 		</Row>
 
 		<Row Tag="LOC_BUILDING_ITSUKUSHIMA_DESCRIPTION" Language="en_US">
-			<Text>+1 [ICON_Faith] Faith, +1 [ICON_Culture] Culture, +2 [ICON_Faith] Faith and +2 [ICON_Culture] Culture from Fishing Boats. Grants a free Monument.</Text>
+			<Text>Grants Major Adjacency (+2 [ICON_Faith] Faith) to Holy Site from Coast and Standard Adjacency (+1 [ICON_Faith] Culture) to Theatre Square from Coast. Grants a free Monument to City. Adds +2 Appeal to tiles in City. Must be built on Coast.</Text>
 		</Row>
 
 		<Row Tag="LOC_BUILDING_ITSUKUSHIMA_QUOTE" Language="en_US">
@@ -34,10 +34,6 @@
 		<!-- German -->
 		<Row Tag="LOC_BUILDING_ITSUKUSHIMA_NAME" Language="de_DE">
 			<Text>Itsukushima Schrein</Text>
-		</Row>
-
-		<Row Tag="LOC_BUILDING_ITSUKUSHIMA_DESCRIPTION" Language="de_DE">
-			<Text>+1 [ICON_Faith] Glauben, +1 [ICON_Culture] Kultur, +2 [ICON_Faith] Glauben und +2 [ICON_Culture] Kultur durch Fischerboote. Ein freies Monument wird gewährt.</Text>
 		</Row>
 
 		<Row Tag="LOC_BUILDING_ITSUKUSHIMA_QUOTE" Language="de_DE">
