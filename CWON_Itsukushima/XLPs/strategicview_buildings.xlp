@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects::XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>260</build>
+		<revision>754</revision>
+	</m_Version>
+	<m_ClassName text="StrategicView_Sprite"/>
+	<m_PackageName text="strategicview/strategicview_buildings"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="Wonders_Itsukushima_Revealed"/>
+			<m_ObjectName text="Wonders_Itsukushima_Revealed"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Wonders_Itsukushima_Visible"/>
+			<m_ObjectName text="Wonders_Itsukushima_Visible"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Wonders_Itsukushima_UnderConstruction_Visible"/>
+			<m_ObjectName text="Wonders_Itsukushima_UnderConstruction_Visible"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Wonders_Itsukushima_UnderConstruction_Revealed"/>
+			<m_ObjectName text="Wonders_Itsukushima_UnderConstruction_Revealed"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Wonders_Itsukushima_Pillaged_Visible"/>
+			<m_ObjectName text="Wonders_Itsukushima_Pillaged_Visible"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Wonders_Itsukushima_Pillaged_Revealed"/>
+			<m_ObjectName text="Wonders_Itsukushima_Pillaged_Revealed"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects::XLP>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects::XLP>
+	<m_Version>
+		<major>3</major>
+		<minor>0</minor>
+		<build>195</build>
+		<revision>304</revision>
+	</m_Version>
+	<m_ClassName text="WonderMovie"/>
+	<m_PackageName text="WonderMovie"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="BUILDING_ITSUKUSHIMA"/>
+			<m_ObjectName text="WON_Itsukushima_WonderMovie"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>MACOS</Element>
+		<Element>LINUX</Element>
+		<Element>WINDOWS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects::XLP>

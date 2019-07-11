@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
+	<RootPaths>
+		<ProjectRoot>C:\Users\Carola\Desktop\Wwise\ITSUKUSHIMA SHRINE\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\Carola\Desktop\Wwise\ITSUKUSHIMA SHRINE\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\Carola\Desktop\Wwise\ITSUKUSHIMA SHRINE\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\Carola\Desktop\Wwise\ITSUKUSHIMA SHRINE\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1463246406" Language="SFX">
+			<ShortName>Itsukushima</ShortName>
+			<Path>Itsukushima.bnk</Path>
+			<IncludedEvents>
+				<Event Id="4246786895" Name="Play_Wonder_Music_Itsukushima"/>
+				<Event Id="55577769" Name="Stop_Wonder_Music_Itsukushima"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="156664627" Language="SFX">
+					<ShortName>Itsukushima.wav</ShortName>
+					<Path>SFX\Itsukushima_4B8CC0C5.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

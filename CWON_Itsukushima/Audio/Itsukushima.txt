@@ -1,0 +1,7 @@
+Event	ID	Name			Wwise Object Path	Notes
+	55577769	Stop_Wonder_Music_Itsukushima			\Default Work Unit\Stop_Wonder_Music_Itsukushima	
+	4246786895	Play_Wonder_Music_Itsukushima			\Default Work Unit\Play_Wonder_Music_Itsukushima	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	156664627	Itsukushima	C:\Users\Carola\Desktop\Wwise\ITSUKUSHIMA SHRINE\.cache\Windows\SFX\Itsukushima_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\Itsukushima\Itsukushima		6614284
+
