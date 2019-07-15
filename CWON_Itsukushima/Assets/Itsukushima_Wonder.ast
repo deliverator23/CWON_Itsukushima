@@ -126,7 +126,7 @@
 						</m_Values>
 						<m_GroupName text="Itsukushima"/>
 						<m_MeshName text="Itsukushima_Built"/>
-						<m_StateName text="Ruined"/>
+						<m_StateName text="Pillaged"/>
 					</Element>
 				</m_GroupStates>
 			</Element>
@@ -213,7 +213,7 @@
 	<m_Materials/>
 	<m_ClassName text="TileBase"/>
 	<m_DataFiles/>
-	<m_Name text="Itsukushima"/>
+	<m_Name text="Itsukushima_Wonder"/>
 	<m_Description text=""/>
 	<m_Tags>
 		<Element text="TileBase"/>

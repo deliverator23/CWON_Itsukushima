@@ -10,8 +10,8 @@
     <m_PackageName text="landmarks/tilebases"/>
     <m_Entries>
         <Element>
-            <m_EntryID text="Itsukushima"/>
-            <m_ObjectName text="Itsukushima"/>
+            <m_EntryID text="Itsukushima_Wonder"/>
+            <m_ObjectName text="Itsukushima_Wonder"/>
         </Element>
         <Element>
             <m_EntryID text="Itsukushima_HB"/>

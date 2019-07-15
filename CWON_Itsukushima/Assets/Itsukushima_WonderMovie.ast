@@ -227,7 +227,7 @@
 						<m_CookParams>
 							<m_Values>
 								<Element class="AssetObjects..BLPEntryValue">
-									<m_EntryName text="Itsukushima"/>
+									<m_EntryName text="Itsukushima_Wonder"/>
 									<m_XLPClass text="TileBase"/>
 									<m_XLPPath text="tilebases.xlp"/>
 									<m_BLPPackage text="landmarks/tilebases"/>
@@ -257,19 +257,19 @@
 							</m_Values>
 						</m_CookParams>
 						<m_position>
-							<x>0</x>
-							<y>0</y>
-							<z>0.000000</z>
+							<x>0.000000</x>
+							<y>-0.000000</y>
+							<z>-0.000000</z>
 						</m_position>
 						<m_orientation>
 							<x>0.000000</x>
 							<y>0.000000</y>
-							<z>0.523599</z>
+							<z>0.104720</z>
 						</m_orientation>
 						<m_Name text="Wonder"/>
 						<m_BoneName text="WON_Bone"/>
 						<m_ModelInstanceName text="WON_Dummy"/>
-						<m_scale>1</m_scale>
+						<m_scale>1.100000</m_scale>
 					</Element>
 					<Element>
 						<m_CookParams>
@@ -305,19 +305,19 @@
 							</m_Values>
 						</m_CookParams>
 						<m_position>
-							<x>0</x>
-							<y>0</y>
+							<x>0.000000</x>
+							<y>0.000000</y>
 							<z>0.000000</z>
 						</m_position>
 						<m_orientation>
 							<x>0.000000</x>
 							<y>0.000000</y>
-							<z>0.523599</z>
+							<z>0.104720</z>
 						</m_orientation>
 						<m_Name text="Wonder_HB"/>
 						<m_BoneName text="HB_Bone"/>
 						<m_ModelInstanceName text="WON_Dummy"/>
-						<m_scale>1</m_scale>
+						<m_scale>1.100000</m_scale>
 					</Element>
 					<Element>
 						<m_CookParams>

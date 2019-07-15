@@ -11,7 +11,7 @@
 	<m_Entries>
 		<Element>
 			<m_EntryID text="BUILDING_ITSUKUSHIMA"/>
-			<m_ObjectName text="WON_Itsukushima_WonderMovie"/>
+			<m_ObjectName text="Itsukushima_WonderMovie"/>
 		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
