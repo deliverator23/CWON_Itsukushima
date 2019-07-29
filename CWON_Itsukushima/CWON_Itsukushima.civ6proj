@@ -2,13 +2,13 @@
 <Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
-    <Name>Itsukushima</Name>
+    <Name>Itsukushima Shrine (World Wonder)</Name>
     <Guid>f87fe104-c6c5-4e11-9251-db958c80c589</Guid>
     <ProjectGuid>edaf21d0-9361-4a61-b7b2-cf4526feafe1</ProjectGuid>
     <ModVersion>1</ModVersion>
-    <Teaser>Itsukushima</Teaser>
-    <Description>Itsukushima</Description>
-    <Authors>Del</Authors>
+    <Teaser>Adds Itsukushima Shrine as a World Wonder.</Teaser>
+    <Description>Adds Itsukushima Shrine as a World Wonder.</Description>
+    <Authors>ShiroToraRyu; Deliverator</Authors>
     <SpecialThanks>
     </SpecialThanks>
     <AffectsSavedGames>true</AffectsSavedGames>
