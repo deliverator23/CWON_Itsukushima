@@ -19,7 +19,7 @@
     <AssemblyName>CWON_Itsukushima</AssemblyName>
     <RootNamespace>CWON_Itsukushima</RootNamespace>
     <FrontEndActionData><![CDATA[<FrontEndActions />]]></FrontEndActionData>
-    <InGameActionData><![CDATA[<InGameActions><UpdateText id="Itsuk_Text"><File>Text/Itsukushima_Text.xml</File></UpdateText><UpdateAudio id="Itsuk_Audio" /><UpdateDatabase id="Itsuk_DB"><File>Gameplay/Itsukushima_Gameplay.sql</File></UpdateDatabase><UpdateIcons id="Itsuk_Icons"><File>Icons/Itsukushima_Icons.xml</File></UpdateIcons><UpdateArt id="Itsuk_Art"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateDatabase id="Itsuk_Audio"><File>Audio/Itsukushima.bnk</File><File>Audio/Itsukushima.txt</File><File>Audio/Itsukushima_4B8CC0C5.wem</File><File>Audio/Itsukushima_Banks.ini</File><File>Audio/PluginInfo.xml</File><File>Audio/SoundbanksInfo.xml</File></UpdateDatabase></InGameActions>]]></InGameActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateText id="Itsuk_Text"><File>Text/Itsukushima_Text.xml</File></UpdateText><UpdateAudio id="Itsuk_Audio"><File>Audio/Itsukushima.bnk</File><File>Audio/Itsukushima.txt</File><File>Audio/Itsukushima_4B8CC0C5.wem</File><File>Audio/Itsukushima_Banks.ini</File><File>Audio/PluginInfo.xml</File><File>Audio/SoundbanksInfo.xml</File></UpdateAudio><UpdateDatabase id="Itsuk_DB"><File>Gameplay/Itsukushima_Gameplay.sql</File></UpdateDatabase><UpdateIcons id="Itsuk_Icons"><File>Icons/Itsukushima_Icons.xml</File></UpdateIcons><UpdateArt id="Itsuk_Art"><File>(Mod Art Dependency File)</File></UpdateArt></InGameActions>]]></InGameActionData>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
     <OutputPath>.</OutputPath>
