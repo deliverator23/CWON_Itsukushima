@@ -7,7 +7,7 @@
 		</Row>
 
 		<Row Tag="LOC_BUILDING_ITSUKUSHIMA_DESCRIPTION" Language="en_US">
-			<Text>Grants Major Adjacency (+2 [ICON_Faith] Faith) to Holy Site from Coast and Standard Adjacency (+1 [ICON_Culture] Culture) to Theatre Square from Coast. Grants a free Monument to City. Adds +1 Appeal to tiles in City. Must be built on Coast.</Text>
+			<Text>Grants Major Adjacency (+2 [ICON_Faith] Faith) to Holy Site from Coast and Standard Adjacency (+1 [ICON_Culture] Culture) to Theatre Square from Coast. Grants a free Monument to City. Adds +1 Appeal to tiles in City. Must be built on Coast adjacent to a Holy Site District.</Text>
 		</Row>
 
 		<Row Tag="LOC_BUILDING_ITSUKUSHIMA_QUOTE" Language="en_US">

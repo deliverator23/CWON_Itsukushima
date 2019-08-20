@@ -2,8 +2,8 @@
 INSERT INTO Types (Type, Kind) VALUES ('BUILDING_ITSUKUSHIMA', 'KIND_BUILDING');
 
 --Buildings
-INSERT INTO Buildings (BuildingType, Name, Description, PrereqTech, Cost, AdvisorType, MaxWorldInstances, IsWonder, RequiresPlacement, AllowsHolyCity, MustNotBeLake, MustBeAdjacentLand, ObsoleteEra, Quote, QuoteAudio)
-VALUES ('BUILDING_ITSUKUSHIMA', 'LOC_BUILDING_ITSUKUSHIMA_NAME', 'LOC_BUILDING_ITSUKUSHIMA_DESCRIPTION', 'TECH_SHIPBUILDING', 400, 'ADVISOR_RELIGIOUS', 1, 1, 1, 1, 1, 1, 'ERA_INDUSTRIAL', 'LOC_BUILDING_ITSUKUSHIMA_QUOTE', 'Play_Wonder_Music_Itsukushima');
+INSERT INTO Buildings (BuildingType, Name, Description, PrereqTech, Cost, AdvisorType, MaxWorldInstances, IsWonder, RequiresPlacement, AllowsHolyCity, MustNotBeLake, MustBeAdjacentLand, ObsoleteEra, Quote, QuoteAudio, AdjacentDistrict)
+VALUES ('BUILDING_ITSUKUSHIMA', 'LOC_BUILDING_ITSUKUSHIMA_NAME', 'LOC_BUILDING_ITSUKUSHIMA_DESCRIPTION', 'TECH_SHIPBUILDING', 400, 'ADVISOR_RELIGIOUS', 1, 1, 1, 1, 1, 1, 'ERA_INDUSTRIAL', 'LOC_BUILDING_ITSUKUSHIMA_QUOTE', 'Play_Wonder_Music_Itsukushima', 'DISTRICT_HOLY_SITE');
 
 --Building_ValidTerrains
 INSERT INTO Building_ValidTerrains (BuildingType, TerrainType) VALUES ('BUILDING_ITSUKUSHIMA', 'TERRAIN_COAST');
