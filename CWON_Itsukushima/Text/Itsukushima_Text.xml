@@ -49,10 +49,10 @@
 		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ITSUKUSHIMA_CHAPTER_HISTORY_PARA_4" Language="de_DE">
 			<Text>Das bekannteste und berühmteste Merkmal des Itsukushima-Schreins ist das fünfzig Fuß hohe Tor o-torii ("Great Gate"), das aus fäulnisresistentem Kampferholz gebaut wurde. Die Platzierung eines zusätzlichen Beins vor und hinter jeder Hauptsäule zeigt, dass die Torii den Stil von Ryōbu Shintō (duales Shinto) widerspiegeln, einer mittelalterlichen Schule des esoterischen japanischen Buddhismus, die mit der Shingon-Sekte verbunden ist. Die Torii scheinen nur bei Flut zu schweben. Bei Ebbe ist die Insel nur zu Fuß erreichbar. Das Sammeln von Schalentieren in der Nähe des Tors ist auch bei Ebbe sehr beliebt. In der Nacht erleuchten mächtige Lichter am Ufer die Torii.</Text>
 		</Row>
-		<Row Tag="LOC_BUILDING_ITSUKUSHIMA_THEATER_COAST_CULTURE" Language="en_US">
+		<Row Tag="LOC_BUILDING_ITSUKUSHIMA_THEATER_COAST_CULTURE" Language="de_DE">
 			<Text>+{1_num} [ICON_Culture] Culture from the adjacent Coast.</Text>
 		</Row>
-		<Row Tag="LOC_BUILDING_ITSUKUSHIMA_HOLY_SITE_COAST_FAITH" Language="en_US">
+		<Row Tag="LOC_BUILDING_ITSUKUSHIMA_HOLY_SITE_COAST_FAITH" Language="de_DE">
 			<Text>+{1_num} [ICON_Faith] Faith from the adjacent Coast.</Text>
 		</Row>
 	</LocalizedText>
