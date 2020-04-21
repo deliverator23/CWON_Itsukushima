@@ -26,13 +26,15 @@ INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES ('ITSUKUSHIMA_GRA
 INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES ('ITSUKUSHIMA_THEATER_COAST_CULTURE', 'DistrictType', 'DISTRICT_THEATER');
 INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES ('ITSUKUSHIMA_THEATER_COAST_CULTURE', 'TerrainType', 'TERRAIN_COAST');
 INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES ('ITSUKUSHIMA_THEATER_COAST_CULTURE', 'YieldType', 'YIELD_CULTURE');
-INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES ('ITSUKUSHIMA_THEATER_COAST_CULTURE', 'Amount', 0.5);
+INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES ('ITSUKUSHIMA_THEATER_COAST_CULTURE', 'Amount', 1);
+INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES ('ITSUKUSHIMA_THEATER_COAST_CULTURE', 'TilesRequired', 2);
 INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES ('ITSUKUSHIMA_THEATER_COAST_CULTURE', 'Description', 'LOC_BUILDING_ITSUKUSHIMA_THEATER_COAST_CULTURE');
 
 INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES ('ITSUKUSHIMA_HOLY_SITE_COAST_FAITH', 'DistrictType', 'DISTRICT_HOLY_SITE');
 INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES ('ITSUKUSHIMA_HOLY_SITE_COAST_FAITH', 'TerrainType', 'TERRAIN_COAST');
 INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES ('ITSUKUSHIMA_HOLY_SITE_COAST_FAITH', 'YieldType', 'YIELD_FAITH');
 INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES ('ITSUKUSHIMA_HOLY_SITE_COAST_FAITH', 'Amount', 1);
+INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES ('ITSUKUSHIMA_HOLY_SITE_COAST_FAITH', 'TilesRequired', 1);
 INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES ('ITSUKUSHIMA_HOLY_SITE_COAST_FAITH', 'Description', 'LOC_BUILDING_ITSUKUSHIMA_HOLY_SITE_COAST_FAITH');
 
 --BuildingModifiers
